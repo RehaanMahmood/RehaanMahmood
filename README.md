@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+New to GitHub, figuring all this out.
+
 <!--
 **RehaanMahmood/RehaanMahmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
